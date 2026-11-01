@@ -2,6 +2,8 @@
 #include <iostream>
 using namespace std;
 
+// C++ programming lab
+
 int main()
 {
      double N;
